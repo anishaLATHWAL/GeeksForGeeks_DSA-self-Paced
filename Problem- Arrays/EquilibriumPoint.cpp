@@ -1,4 +1,4 @@
-// This commit includes only the largestAndSecondLargest function. 
+// This commit includes only the equilibriumPoint  function. 
 // The rest of the implementation and context are present in the 
 // GeeksforGeeks (GFG) code editor.
 
